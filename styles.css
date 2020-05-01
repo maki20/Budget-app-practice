@@ -1,0 +1,52 @@
+body {
+    font-family: "Hind Siliguri";
+    background: linear-gradient(to right, #F27121, #E94057, #8A2387);
+    background-attachment: fixed;
+}
+
+main {
+   width: 60%;
+   margin: auto;
+   text-align: center;
+}
+
+.main {
+   margin-bottom: 6vh;
+}
+
+h3 {
+   font-size: 1.5em;
+   margin-bottom: 0px;
+}
+
+input {
+ display: block;
+ width: 200px;
+ height: 30px;
+ border-radius: 4px;
+ border: 1px solid lightgrey;
+ margin: 10px auto;
+ padding: 0 4px;
+ font-size: 1em;
+ font-family: "Caladea";
+}
+
+button {
+  padding: 10px 20px;  
+  border-radius: 10px;
+  border: none;
+  background-color: yellow ;
+  font-family: "Hind Siliguri"; 
+}
+
+button:hover {
+  background-color :lightpink;
+} 
+
+.red {
+  color: orangered;
+}
+
+.green {
+  color: limegreen;
+}
